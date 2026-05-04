@@ -32,4 +32,9 @@ public class ContactTest {
 	public void contactTest() {
 		System.out.println("Execute contactTest");
 	}
+	
+	@Test
+	public void addcontactTest() {
+		System.out.println("Execute addcontactTest");
+	}
 }
